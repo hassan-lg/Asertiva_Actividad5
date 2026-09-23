@@ -1,5 +1,7 @@
 ### Nombres y carnets
-
+**Hassan López - 202500233**
+**@**
+**@**
 
 
 # Tarjeta 3: Negociar una fecha de entrega
