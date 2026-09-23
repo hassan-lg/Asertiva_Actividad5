@@ -73,4 +73,14 @@ Mientras se presenta las razones del ¿por qué? no puede realizar la entrega y 
 
 
 ## Manejo emocional
+**Mantener la profesionalidad:** Se mantiene la profesionalidad en esta situación que puede ser estresante para poder manejar y regular las emociones.
+
+**Técnicas de respiración:** Se usan estas técnicas para tranquilizarse y regular las emociones al momento de presentar su situación y mantener la calma.
+
+**Uso de pausas conscientes:** Se usan las pausas para mantener la calma y tener un ritmo pausado y no acelerado, así se transmite de manera profesional su situación.
+
+
+# Anexos
+Captura de pantalla
+<img width="1917" height="1077" alt="Captura de pantalla 2026-09-21 185345" src="https://github.com/user-attachments/assets/b29945ad-2374-4812-9b1e-34d9338c2636" />
 
