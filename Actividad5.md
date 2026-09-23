@@ -17,7 +17,9 @@ Objetivo:
 Practicar la negociación asertiva manteniendo credibilidad y compromiso.
 
 ## Decir "No" de manera profesional
+Al estar demasiado ocupado con el resto de entregas decir no, es comprensible porque a veces no siempre da el tiempo para poder concretar múltiples entregas. Por eso la manera más adecuado de decir que no en esta situación es:
 
+Hola, quiero informar que **No** voy a poder lograr llegar al objetivo de entrega, porque tengo otras entregas que debo hacer primero, sin embargo estoy dispuesto a negociar acerca de la entrega del proyecto.
 
 ## Negociación de límites de manera clara y respetuosa
 
