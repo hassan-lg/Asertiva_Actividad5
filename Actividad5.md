@@ -5,6 +5,7 @@
 
 **Luis García - 202505370**
 
+---
 
 # Tarjeta 3: Negociar una fecha de entrega
 Situación:
@@ -40,10 +41,18 @@ De esta forma se recibe la retroalimentación sin tomarla como un ataque hacia l
 ## Aplicación de regulación emocional durante la interacción
 Mientras se presenta las razones del ¿por qué? no puede realizar la entrega y la negociación de la entrega, la persona mantiene un tono calmado, practica respiraciones para calmarse, se expresa de manera clara y propone alternativas viables. De esta manera logra la asertividad regulando sus emociones
 
+---
+
 # Retroalimentación grupal
 
 ## Claridad del mensaje
+**Explicación directa:** Se explica de manera clara el motivo por el cual no se puede cumplir con la fecha de entrega establecida, esto con tal de evitar dar información innecesaria o que pueda confundir.
 
+**Propuesta clara:** Se da una nueva fecha de entrega de forma específica, de esta forma ambas partes conocen cuál es la solución que se está proponiendo.
+
+**Orden de las ideas:** Primero se explicó la situación, luego se establecieron los límites y finalmente se presentó una propuesta de solución. Esto permite que el receptor comprenda fácilmente el motivo de la solicitud.
+
+**Compromiso con la entrega:** En un principio se deja claro que, aunque se solicita una extensión, existe el compromiso de entregar el trabajo completo en una nueva fecha.
 
 ## Tono utilizado
 **Tono neutro y profesional:** Permite al receptor recibir el mensaje de la mejor manera, para evitar mal entendidos como que se perciba el mensaje como un enfrentamiento o exigencia.
@@ -53,6 +62,15 @@ Mientras se presenta las razones del ¿por qué? no puede realizar la entrega y 
 **Uso de pausas:** Permite al receptor analizar las diferentes propuestas dadas y de esta manera dar una respuesta coherente y que permita ponerse de acuerdo.
 
 ## Nivel de profesionalismo
+
+**Responsabilidad:** Se reconoce que no se podrá cumplir con la fecha de entrega, entonces se comunica la situación mucho antes, en lugar de esperar hasta el último momento.
+
+**Respeto:** La solicitud se realiza de manera amable, sin exigir que se acepte la nueva fecha y tampoco responsabilizar a otras personas por la situación.
+
+**Llegar a un acuerdo:** Se presenta una alternativa y se mantiene abierta la posibilidad de escuchar la propuesta del docente o del equipo.
+
+**Compromiso:** Se demuestra interés por cumplir con el trabajo y se asume el compromiso de respetar la nueva fecha que sea acordada.
+
 
 ## Manejo emocional
 
