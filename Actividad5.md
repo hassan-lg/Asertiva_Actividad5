@@ -1,7 +1,7 @@
 ### Nombres y carnets
 **Hassan López - 202500233**
 
-**@**
+**Ricardo Colindres - 202500242**
 
 **@**
 
@@ -25,7 +25,11 @@ Al estar demasiado ocupado con el resto de entregas decir no, es comprensible po
 
 
 ## Dar retroalimentación con técnicas
+Durante la negociación también es importante escuchar la respuesta del docente o de los integrantes del equipo. Si se recibe una observación sobre la organización del tiempo, se puede responder de manera respetuosa manteniendo la asertividad:
 
+"Entiendo la observación y considero que puedo mejorar la manera en que organizo mis entregas para evitar que esta situación vuelva a ocurrir más adelante."
+
+De esta forma se recibe la retroalimentación sin tomarla como un ataque hacia los demás y se demuestra disposición propia para mejorar y evitar errores más adelante.
 
 ## Aplicación de regulación emocional durante la interacción
 Mientras se presenta las razones del ¿por qué? no puede realizar la entrega y la negociación de la entrega, la persona mantiene un tono calmado, practica respiraciones para calmarse, se expresa de manera clara y propone alternativas viables. De esta manera logra la asertividad regulando sus emociones
