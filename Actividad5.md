@@ -12,3 +12,27 @@ Debes negociar una nueva fecha explicando tu situación de forma clara, responsa
 Objetivo:
 Practicar la negociación asertiva manteniendo credibilidad y compromiso.
 
+## Decir "No" de manera profesional
+
+
+## Negociación de límites de manera clara y respetuosa
+
+
+## Dar retroalimentación con técnicas
+
+
+## Aplicación de regulación emocional durante la interacción
+
+
+# Retroalimentación grupal
+
+## Claridad del mensaje
+
+
+## Tono utilizado
+
+
+## Nivel de profesionalismo
+
+## Manejo emocional
+
